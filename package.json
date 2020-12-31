@@ -5,7 +5,11 @@
   "description": "Dark+ derived theme with lower contrast and slightly changed colors",
   "main": "index.js",
   "publisher": "nomos",
-  "repository": {},
+  "author": "nomos",
+  "icon": "icon.png",
+  "repository": {
+    "url":"https://github.com/oswinN/nomosBlack"
+  },
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -21,6 +25,6 @@
       }
     ]
   },
-  "keywords": [ "Theme Black", "dark theme", "low contrast", "eye strain"],
-  "author": "nomos"
+  "keywords": [ "Theme Black", "dark theme", "low contrast", "eye strain"]
+
 }
