@@ -1,7 +1,7 @@
 nomosBlack theme
 ===========
 
-Based on the default Dark+ theme, with a pure black background and lower contrast colors. I needed to create this for reduced eye strain when used with OLED screens that are both bright and have a real black capability.
+Based on the default Dark+ theme, with a pure black background and lower contrast colors. I needed to create this for reduced eye strain when used with OLED screens that are both bright and have a true black capability.
 
 ![Screenshot](screenshot.png)
 
