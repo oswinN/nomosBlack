@@ -492,8 +492,8 @@
 		//"welcomePage.background": null,
 		//"welcomePage.buttonBackground": null,
 		//"welcomePage.buttonHoverBackground": null,
-		//"window.activeBorder": null,
-		//"window.inactiveBorder": null
+		"window.activeBorder": "#16825d",
+		"window.inactiveBorder": "#4f615b"
 	},
 	"tokenColors": [
 		{

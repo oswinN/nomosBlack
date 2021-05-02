@@ -1,7 +1,7 @@
 {
   "name": "nomosblack",
   "displayName": "NomosBlack",  
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Dark+ derived theme with lower contrast and slightly changed colors",
   "publisher": "nomos",
   "author": "nomos",
@@ -24,6 +24,6 @@
       }
     ]
   },
-  "keywords": [ "Theme Black", "dark theme", "low contrast", "eye strain"]
+  "keywords": [ "Theme Black", "dark theme", "low contrast", "eye strain", "OLED", "Monitor"]
 
 }
