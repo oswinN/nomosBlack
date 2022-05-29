@@ -1,0 +1,29 @@
+{
+  "name": "nomosblack",
+  "displayName": "NomosBlack",
+  "version": "1.0.7",
+  "description": "Dark+ derived theme with lower contrast and slightly changed colors",
+  "publisher": "nomos",
+  "author": "nomos",
+  "icon": "icon.png",
+  "repository": {
+    "url":"https://github.com/oswinN/nomosBlack"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NomosBlack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NomosBlack-color.theme.json"
+      }
+    ]
+  },
+  "keywords": [ "Theme Black", "dark theme", "low contrast", "eye strain", "OLED", "Monitor"]
+
+}

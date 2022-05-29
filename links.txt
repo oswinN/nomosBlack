@@ -1,0 +1,5 @@
+Github
+https://github.com/oswinN/nomosBlack
+
+VS Marketplace
+https://marketplace.visualstudio.com/manage/publishers/nomos

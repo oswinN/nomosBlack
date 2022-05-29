@@ -1,0 +1,7 @@
+apiToken.txt
+.gitignore
+*.vsix
+*.vsix.zip
+test.go
+*.bat
+links.txt
